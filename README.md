@@ -10,4 +10,4 @@ A mass spring damper released from 20mm below rest.
  
 ![Effect of Damping Ratio](Stage_1/stage1_damping_comparison.png)
 
-**What I learned:** Damping doesn't paticularly change the bounce frequency but it controls how fast the bounce frequency dies away. Critical damping (zeta = 1) settles fastest with no overshoot, but too much damping is sluggish.
+**What I learned:** Damping doesn't particularly change the bounce frequency but it controls how fast the bounce dies away. Critical damping (zeta = 1) settles fastest with no overshoot, but too much damping is sluggish.
